@@ -1,0 +1,6 @@
+{
+    "sublimelinter_executable_map":
+    {
+        "ruby": "/usr/local/opt/rbenv/shims/ruby"
+    }
+}
